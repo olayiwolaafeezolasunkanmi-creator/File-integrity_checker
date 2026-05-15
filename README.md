@@ -14,5 +14,6 @@ Error handling (permission denied, file not found).
 Reporting with colors or simple text.
 # Step by step implementation
 Create a directory and name it "integrity_checker" 
-Inside
-Move to the directory "integrity_checker
+Moved JSON hash file into "integrity_checker"
+Changed directory to "integrity_checker"
+

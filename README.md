@@ -14,6 +14,9 @@ Error handling (permission denied, file not found).
 Reporting with colors or simple text.
 # Step by step implementation
 Create a directory and name it "integrity_checker" 
-Moved JSON hash file into "integrity_checker"
-Changed directory to "integrity_checker"
+Moved JSON hash file into "integrity_check"
+Changed directory to "integrity_check"
+mkdir (Make Directory) "integrity_tool" 
+Changed Directory to "integrity_tool" 
+Nano integrity_check, then input ./integrity_check init /var/log to get the hashing
 

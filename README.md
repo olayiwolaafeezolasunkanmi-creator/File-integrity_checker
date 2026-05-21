@@ -13,8 +13,15 @@ Implement command parsing using argparse.
 Error handling (permission denied, file not found). 
 Reporting with colors or simple text.
 # Step by step implementation
-Create a directory and name it "integrity_checker" 
-Moved JSON hash file into "integrity_check"
+
+Create a directory, name it "integrity_checker"
+```bash
+mkdir integrity_check``
+```
+change directory into "integrity_check"
+```bash
+cd integrity_check``
+```
 Changed directory to "integrity_check"
 mkdir (Make Directory) "integrity_tool" 
 Changed Directory to "integrity_tool" 

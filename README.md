@@ -38,10 +38,6 @@ create new empty file on "integrity_check"
 ```bash
 touch integrity_check
 ```
-give the file permission to execute as a programe 
-```bash
-chmod +x integrity_check
-```
 go to directory that stores file 
 ```bash
 ./integrity_check init var/log/
@@ -227,4 +223,8 @@ def main():
 
 if _name_ == "_main_":
     main()
+```
+give the file permission to execute as a programe 
+```bash
+chmod +x integrity_check
 ```
